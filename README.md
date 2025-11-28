@@ -1,0 +1,2 @@
+# Implementing-and-Evaluating-K-Means-Clustering-from-Scratch-coding
+This project involves building the K-Means clustering algorithm entirely from scratch using NumPy, generating a synthetic dataset, and evaluating performance using inertia, the Elbow Method, and Silhouette Score. It emphasizes understanding centroid updates, convergence behavior, and comparing results to standard implementations.
